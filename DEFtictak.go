@@ -352,7 +352,6 @@ func qwe(array [3][3]string) {
 func main() {
 
 	simvol := "0"
-	//play := 0
 	array := [3][3]string{
 		{"_", "_", "_"},
 		{"_", "_", "_"},
